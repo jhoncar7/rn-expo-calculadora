@@ -55,3 +55,10 @@ Join our community of developers creating universal apps.
 * https://docs.expo.dev/more/create-expo/#--template
 * yarn create expo-app calculator-app
 * yarn expo start
+
+* https://docs.expo.dev/versions/latest/sdk/navigation-bar/
+* yarn expo install expo-navigation-bar -> barra de navegacion del dispositivo fisico de android que se ve y no deja navegar
+
+* https://docs.expo.dev/versions/latest/sdk/haptics/
+* yarn expo install expo-haptics
+* Que cuando se toca un boton suene o vibre
